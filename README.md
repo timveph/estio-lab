@@ -1,6 +1,3 @@
 # estio-lab
 a collaboration between 3 amigos
-
-
-
-###Piotr too
+Working on making pull requests.
